@@ -6,3 +6,4 @@ const jsUser={
 }
 
 console.log(jsUser["full Name"]);
+
